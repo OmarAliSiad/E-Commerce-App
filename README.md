@@ -47,8 +47,7 @@ E-Commerce-App is a mobile-focused project built using the Flutter SDK, designed
 
 ![bag 1](https://raw.githubusercontent.com/OmarAliSiad/E-Commerce-App/main/assets/bag_1.png)
 
-<a id="tech-stack"></a>
-## 🛠️ Tech Stack
+<h2 id="tech-stack">🛠️ Tech Stack</h2>
 
 - 🤖 **Android (Native)**
 - 💙 **Flutter**
@@ -403,8 +402,7 @@ flutter pub get && flutter run
         ├── win32_window.cpp
         └── win32_window.h
 ```
-<a id="development-setup"></a>
-## ⚙️ Development Setup
+<h2 id="development-setup">⚙️ Development Setup</h2>
 
 ### Flutter
 1. Install the [Flutter SDK](https://flutter.dev/docs/get-started/install)
