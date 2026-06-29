@@ -14,7 +14,7 @@
 - [🚀 Quick Start](#-quick-start)
 - [📜 Available Scripts](#-available-scripts)
 - [📂 Project Structure](#-project-structure)
-- [🛠️ Development Setup](#development-setup)
+- [⚙️ Development Setup](#development-setup)
 - [👥 Contributors](#-contributors)
 - [🤝 Contributing](#-contributing)
 
@@ -403,7 +403,7 @@ flutter pub get && flutter run
         └── win32_window.h
 ```
 
-## 🛠️ Development Setup
+## ⚙️ Development Setup
 
 ### Flutter
 1. Install the [Flutter SDK](https://flutter.dev/docs/get-started/install)
