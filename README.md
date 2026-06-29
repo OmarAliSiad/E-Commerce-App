@@ -6,17 +6,18 @@
 
 ## 📑 Table of Contents
 
-- [Description](#description)
-- [Key Features](#key-features)
-- [Use Cases](#use-cases)
-- [Screenshots](#screenshots)
-- [Tech Stack](#tech-stack)
-- [Quick Start](#quick-start)
-- [Available Scripts](#available-scripts)
-- [Project Structure](#project-structure)
-- [Development Setup](#development-setup)
-- [Contributors](#contributors)
-- [Contributing](#contributing)
+- [📝 Description](#-description)
+- [📸 Screenshots](#-screenshots)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [🏗️ Architecture](#️-architecture)
+- [⚡ Quick Start](#-quick-start)
+- [📦 Key Dependencies](#-key-dependencies)
+- [🚀 Available Scripts](#-available-scripts)
+- [📁 Project Structure](#-project-structure)
+- [🛠️ Development Setup](#️-development-setup)
+- [🧪 Testing](#-testing)
+- [👥 Contributors](#-contributors)
+- [🤝 Contributing](#-contributing)
 
 ## 📝 Description
 
