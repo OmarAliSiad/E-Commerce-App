@@ -14,7 +14,7 @@
 - [🚀 Quick Start](#-quick-start)
 - [📜 Available Scripts](#-available-scripts)
 - [📂 Project Structure](#-project-structure)
-- [⚙️ Development Setup](#-development-setup)
+- [🛠️ Development Setup](#-development-setup)
 - [👥 Contributors](#-contributors)
 - [🤝 Contributing](#-contributing)
 
